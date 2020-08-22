@@ -10,7 +10,7 @@
 
 ### Contact with Me
 [<img align="left" alt="m-hamzashakeel | Facebook" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
-[<img align="left" alt="m-hamzashakeel | Twitter" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
+[<img align="left" alt="m-hamzashakeel | Twitter" width=22px src="https://twitter.com/elfsight">][twitter]
 [<img align="left" alt="m-hamzashakeel | LinkedIn" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
 [<img align="left" alt="m-hamzashakeel | Medium" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">][medium]
 [<img align="left" alt="m-hamzashakeel | Instagram" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
