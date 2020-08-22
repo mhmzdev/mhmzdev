@@ -8,7 +8,6 @@
 - ✨ I'm also learning Web Development
 - 🎮 I love to play video games (COD, PUBG etc)
 
-<br>
 
 ### Languages & Tools
 
