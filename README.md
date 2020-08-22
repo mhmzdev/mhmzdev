@@ -42,8 +42,9 @@
 
 ---
 
-<img align="left" alt="Hamza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=m-hamzashakeel&show_icons=true&hide_border=true">
+<img align="left" alt="Hamza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=m-hamzashakeel&show_icons=true&hide_border=true&theme=radical">
 
+<br>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-hamzashakeel&layout=compact)](https://github.com/m-hamzashakeel/github-readme-stats)
