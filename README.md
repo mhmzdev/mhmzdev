@@ -51,4 +51,4 @@
 [linkedin]: https://www.linkedin.com/in/m-hamzashakeel/
 [instagram]: https://www.instagram.com/m_hamzashakeel/
 [medium]: https://medium.com/@hamza.6.shakeel
-[facebook]: httsp://www.facebook.com/hamza.maddog
+[facebook]: https://www.facebook.com/hamza.maddog
