@@ -17,21 +17,28 @@
 [<img align="left" alt="m-hamzashakeel | Instagram" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
 
 <br>
+<br>
 
 ### Languages & Tools
 
 <img align="left" alt="m-hamzashakeel | Flutter" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg">
 <img align="left" alt="m-hamzashakeel | Dart" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg">
 <img align="left" alt="m-hamzashakeel | Firebase" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg">
+<img align="left" alt="m-hamzashakeel | VS Code" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg">
 <img align="left" alt="m-hamzashakeel | Android Studio" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg">
 <img align="left" alt="m-hamzashakeel | HTML5" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg">
 <img align="left" alt="m-hamzashakeel | CSS" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg">
 <img align="left" alt="m-hamzashakeel | Boostrap" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg">
-<img align="left" alt="m-hamzashakeel | VS Code" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg">
 <img align="left" alt="m-hamzashakeel | Adobe XD" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobexd.svg">
+<img align="left" alt="m-hamzashakeel | Adobe XD" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg">
 
 
 <br>
+<br>
+
+### 📙 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [quran]: https://github.com/m-hamzashakeel/The_Holy_Quran_App
 [twitter]: https://www.twitter.com/m_hamzashakeel/
