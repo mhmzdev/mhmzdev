@@ -9,7 +9,6 @@
 - 🎮 I love to play video games (COD, PUBG etc)
 
 <br>
-<br>
 
 ### Languages & Tools
 
@@ -32,9 +31,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-hamzashakeel)](https://github.com/m-hamzashakeel/github-readme-stats)
 
-<br>
-
-
 ### 📙 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -50,6 +46,7 @@
 [<img align="left" alt="m-hamzashakeel | Instagram" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
 
 <br>
+<br>    
 
 Open Source Contributor from <b>Pakistan<b> 💚
 
