@@ -40,6 +40,11 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<img align="left" alt="Hamza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=m-hamzashakeel&show_icons=true&hide_border=true">
+
+
 [quran]: https://github.com/m-hamzashakeel/The_Holy_Quran_App
 [twitter]: https://www.twitter.com/m_hamzashakeel/
 [linkedin]: https://www.linkedin.com/in/m-hamzashakeel/
