@@ -5,6 +5,8 @@ on:
     - cron: '0 * * * *'
   workflow_dispatch:
 
+max_post_count: 10
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
