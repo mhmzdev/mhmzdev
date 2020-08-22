@@ -1,4 +1,4 @@
-### Hi there, I'm  Hamza
+### Hi there, I'm  Hamza 👋
 
 ## I'm a Student, Developer & Writer
 - 🙋‍♂️ I'm currently a DSC Lead at my Campus
@@ -36,15 +36,21 @@
 <br>
 <br>
 
-### 📙 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=m-hamzashakeel)](https://github.com/m-hamzashakeel/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-hamzashakeel)](https://github.com/m-hamzashakeel/github-readme-stats)
 
+<br>
+<br>
+
+
+### 📙 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
+Open Source Contributor from <b>Pakistan<b> 💚
 
 [quran]: https://github.com/m-hamzashakeel/The_Holy_Quran_App
 [twitter]: https://www.twitter.com/m_hamzashakeel/
