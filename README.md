@@ -47,6 +47,7 @@
 <br>
 <br>    
 
+
 Open Source Contributor from <b>Pakistan<b> 💚
 
 [quran]: https://github.com/m-hamzashakeel/The_Holy_Quran_App
