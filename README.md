@@ -32,10 +32,10 @@
 
 ### 📙 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Journey from Scratch till Play Store — The Holy Qur’an | Flutter App](https://itnext.io/journey-from-scratch-till-play-store-the-holy-quran-flutter-app-407a5370448a?source=rss-198dec8dcf4a------2)
 - [Flutter v 1.20 — Quick Summary!!](https://itnext.io/flutter-v-1-20-quick-summary-ca14e6da9418?source=rss-198dec8dcf4a------2)
 - [Flutter is only for UI development — Change My Mind!](https://itnext.io/flutter-is-only-for-ui-development-change-my-mind-f8ced7a6b57e?source=rss-198dec8dcf4a------2)
 - [MVC in Flutter App — The Holy Qur’an App](https://itnext.io/mvc-in-flutter-app-the-holy-quran-app-c0fd8ae31d67?source=rss-198dec8dcf4a------2)
-- [Navigation Rail Widget — Flutter 1.17](https://itnext.io/navigation-rail-widget-flutter-1-17-229f7c5d3215?source=rss-198dec8dcf4a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
