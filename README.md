@@ -28,7 +28,6 @@
 
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=m-hamzashakeel)](https://github.com/m-hamzashakeel/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-hamzashakeel)](https://github.com/m-hamzashakeel/github-readme-stats)
 
 ### 📙 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
