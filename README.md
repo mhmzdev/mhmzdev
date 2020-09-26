@@ -1,12 +1,14 @@
 ### Hi there, I'm  Hamza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Student, Developer & Writer
-- 🙋‍♂️ I'm currently a DSC Lead at my Campus
-- 💻 The tech I'm interested in is Flutter
+- 🙋‍♂️ I'm currently a DSC Lead at my Campus & Founder/CEO to [Flutter Islamabad][flutter_isb]
+- 💻 The tech I'm interested in is Flutter, AR/VR, ML & Deep Learning
 - ✍ I also do technical writing on Medium
-- 👉 Currently I'm working with a [Holy Qur'an App][quran]
-- ✨ I'm also learning Web Development
+- 👉 First Live app on Play Store [Holy Qur'an App][quran]
+- ✨ I'm also learning Front-End Development
 - 🎮 I love to play video games (COD, PUBG etc)
+
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 
 ### Languages & Tools
@@ -19,15 +21,11 @@
 <img align="left" alt="m-hamzashakeel | HTML5" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg">
 <img align="left" alt="m-hamzashakeel | CSS" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg">
 <img align="left" alt="m-hamzashakeel | Boostrap" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg">
-<img align="left" alt="m-hamzashakeel | Adobe XD" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobexd.svg">
-<img align="left" alt="m-hamzashakeel | Adobe XD" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg">
-
 
 <br>
 <br>
 
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=m-hamzashakeel)](https://github.com/m-hamzashakeel/github-readme-stats)
-
 
 ### 📙 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -59,3 +57,4 @@ Open Source Contributor from <b>Pakistan<b> 💚
 [instagram]: https://www.instagram.com/m_hamzashakeel/
 [medium]: https://medium.com/@hamza.6.shakeel
 [facebook]: https://www.facebook.com/hamza.maddog
+[flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
