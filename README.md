@@ -1,6 +1,9 @@
-### Hi there, I'm  Hamza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I'm  Hamza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a Student, Developer & Writer
+### A Student, Developer & Writer
+
+#### Talking about my personal stuff:
+
 - 🙋‍♂️ I'm currently a DSC Lead at my Campus & Founder/CEO to [Flutter Islamabad][flutter_isb]
 - 💻 The tech I'm interested in is Flutter, AR/VR, ML & Deep Learning
 - ✍ I also do technical writing on Medium
@@ -13,9 +16,9 @@
 
 ### Languages & Tools
 
-<img align="left" alt="m-hamzashakeel | Flutter" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg">
-<img align="left" alt="m-hamzashakeel | Dart" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg">
-<img align="left" alt="m-hamzashakeel | Firebase" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg">
+<img align="left" alt="m-hamzashakeel | Flutter" width=22px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+<img align="left" alt="m-hamzashakeel | Dart" width=22px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
+<img align="left" alt="m-hamzashakeel | Firebase" width=22px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 <img align="left" alt="m-hamzashakeel | VS Code" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg">
 <img align="left" alt="m-hamzashakeel | Android Studio" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg">
 <img align="left" alt="m-hamzashakeel | HTML5" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg">
