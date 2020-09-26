@@ -3,8 +3,8 @@
 [<img align="left" alt="m-hamzashakeel | Facebook" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
 [<img align="left" alt="m-hamzashakeel | Twitter" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
 [<img align="left" alt="m-hamzashakeel | LinkedIn" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
-[<img align="left" alt="m-hamzashakeel | Medium" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">][medium]
 [<img align="left" alt="m-hamzashakeel | Instagram" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
+[<img align="left" alt="m-hamzashakeel | Medium" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">][medium]
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
@@ -32,8 +32,6 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-<br>
-
 ### 📙 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Journey from Scratch till Play Store — The Holy Qur’an | Flutter App](https://itnext.io/journey-from-scratch-till-play-store-the-holy-quran-flutter-app-407a5370448a?source=rss-198dec8dcf4a------2)
@@ -42,11 +40,12 @@
 - [MVC in Flutter App — The Holy Qur’an App](https://itnext.io/mvc-in-flutter-app-the-holy-quran-app-c0fd8ae31d67?source=rss-198dec8dcf4a------2)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
+<details>
+<summary>📝 My GitHub Stats</summary>
 
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=m-hamzashakeel)](https://github.com/m-hamzashakeel/github-readme-stats)
+[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=m-hamzashakeel&theme=gotham)](https://github.com/m-hamzashakeel/github-readme-stats)
 
-<br>    
+</details>
 
 Open Source Contributor from <b>Pakistan<b> 💚
 
