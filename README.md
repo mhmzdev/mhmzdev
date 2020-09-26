@@ -1,4 +1,12 @@
-### Hey there, I'm  Hamza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I'm  [Hamza][profile] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+[<img align="left" alt="m-hamzashakeel | Facebook" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
+[<img align="left" alt="m-hamzashakeel | Twitter" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
+[<img align="left" alt="m-hamzashakeel | LinkedIn" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
+[<img align="left" alt="m-hamzashakeel | Medium" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">][medium]
+[<img align="left" alt="m-hamzashakeel | Instagram" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
+
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 ### A Student, Developer & Writer
 
@@ -11,19 +19,15 @@
 - ✨ I'm also learning Front-End Development
 - 🎮 I love to play video games (COD, PUBG etc)
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-
 ### Languages & Tools
 
-<img align="left" alt="m-hamzashakeel | Flutter" width=22px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+<code><img align="left" alt="m-hamzashakeel | Flutter" width=22px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <img align="left" alt="m-hamzashakeel | Dart" width=22px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
+<img align="left" alt="m-hamzashakeel | Python" width=22px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img align="left" alt="m-hamzashakeel | Firebase" width=22px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-<img align="left" alt="m-hamzashakeel | VS Code" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg">
-<img align="left" alt="m-hamzashakeel | Android Studio" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg">
-<img align="left" alt="m-hamzashakeel | HTML5" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg">
-<img align="left" alt="m-hamzashakeel | CSS" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg">
-<img align="left" alt="m-hamzashakeel | Boostrap" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg">
+<img align="left" alt="m-hamzashakeel | HTML5" width=22px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img align="left" alt="m-hamzashakeel | CSS" width=22px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img align="left" alt="m-hamzashakeel | Boostrap" width=22px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
 
 <br>
 <br>
@@ -39,16 +43,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br>
-
-### Contact with Me
-
-[<img align="left" alt="m-hamzashakeel | Facebook" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
-[<img align="left" alt="m-hamzashakeel | Twitter" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
-[<img align="left" alt="m-hamzashakeel | LinkedIn" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
-[<img align="left" alt="m-hamzashakeel | Medium" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">][medium]
-[<img align="left" alt="m-hamzashakeel | Instagram" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
-
-<br>
 <br>    
 
 
@@ -61,3 +55,4 @@ Open Source Contributor from <b>Pakistan<b> 💚
 [medium]: https://medium.com/@hamza.6.shakeel
 [facebook]: https://www.facebook.com/hamza.maddog
 [flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
+[profile]: http://m-hamzashakeel.github.io
