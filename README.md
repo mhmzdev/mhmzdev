@@ -42,6 +42,7 @@
 
 <details>
 <summary>📝 My GitHub Stats</summary>
+<br>
 
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=m-hamzashakeel&theme=gotham)](https://github.com/m-hamzashakeel/github-readme-stats)
 
