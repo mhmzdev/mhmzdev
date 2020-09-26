@@ -17,10 +17,10 @@
 - 🙋‍♂️ I'm currently a DSC Lead at my Campus & Founder/CEO to [Flutter Islamabad][flutter_isb]
 - 💻 The tech I'm interested in is Flutter, AR/VR, ML & Deep Learning
 - ✍ I also do technical writing on Medium
-- 👉 First Live app on Play Store [Holy Qur'an App][quran]
-- ✨ I'm also learning Front-End Development
+- 📱 First Live app on Play Store [Holy Qur'an App][quran]
+- ✨ I'm learning Front-End Development, AR & ML
 - 🎮 I love to play video games (COD, PUBG etc)
-- 📄 [Resume][profile]
+- 📄 [Portfolio][profile]
 
 ### Languages & Tools
 
@@ -48,7 +48,7 @@
 
 </details>
 
-Open Source Contributor from <b>Pakistan<b> 💚
+Open Source Contributor from <b>Pakistan<b> 🇵🇰 💚
 
 [quran]: https://github.com/m-hamzashakeel/The_Holy_Quran_App
 [twitter]: https://www.twitter.com/m_hamzashakeel/
