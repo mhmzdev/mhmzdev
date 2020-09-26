@@ -20,7 +20,7 @@
 - 📱 First Live app on Play Store [Holy Qur'an App][quran]
 - ✨ I'm learning Front-End Development, AR & ML
 - 🎮 I love to play video games (COD, PUBG etc)
-- 📄 [Portfolio][profile]
+- 📄 [Resume][profile]
 
 ### Languages & Tools
 
