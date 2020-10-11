@@ -14,7 +14,7 @@
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ I'm currently a DSC Lead at my Campus & Founder/CEO to [Flutter Islamabad][flutter_isb]
+- 🙋‍♂️ Active DSC Lead at my [Campus][dsccui] & Founder/CEO to [Flutter Islamabad][flutter_isb]
 - 💻 The tech I'm interested in is Flutter, AR/VR, ML & Deep Learning
 - ✍ I also do technical writing on Medium
 - 📱 First Live app on Play Store [Holy Qur'an App][quran]
@@ -32,7 +32,7 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-### 📙 Latest Blog Posts
+### ✍ Medium Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Journey from Scratch till Play Store — The Holy Qur’an | Flutter App](https://itnext.io/journey-from-scratch-till-play-store-the-holy-quran-flutter-app-407a5370448a?source=rss-198dec8dcf4a------2)
 - [Flutter v 1.20 — Quick Summary!!](https://itnext.io/flutter-v-1-20-quick-summary-ca14e6da9418?source=rss-198dec8dcf4a------2)
@@ -56,5 +56,6 @@ Open Source Contributor from <b>Pakistan<b> 💚
 [instagram]: https://www.instagram.com/m_hamzashakeel/
 [medium]: https://medium.com/@hamza.6.shakeel
 [facebook]: https://www.facebook.com/hamza.maddog
+[dsccui]: https://dsc.community.dev/comsats-university-islamabad/
 [flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
 [profile]: http://m-hamzashakeel.github.io
