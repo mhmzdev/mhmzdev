@@ -19,7 +19,7 @@
 - ✍ I also do technical writing on Medium
 - 📱 First Live app on Play Store [Holy Qur'an App][quran]
 - ✨ I'm learning Front-End Development, AR & ML
-- 🎮 I love to play video games (COD, PUBG etc)
+- 🎮 Video Games (COD, PUBG etc)
 - 📄 [Resume][profile]
 
 ### Languages & Tools
