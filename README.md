@@ -19,7 +19,7 @@
 - ✍ I also do technical writing on Medium
 - 📱 First Live app on Play Store [Holy Qur'an App][quran]
 - ✨ I'm learning Front-End Development, AR & ML
-- 🎮 I love to play video games (COD, PUBG etc)
+- 🎮 Video Games (COD, PUBG etc)
 - 📄 [Resume][profile]
 
 ### Languages & Tools
@@ -46,7 +46,6 @@
 <br>
 
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=m-hamzashakeel&theme=gotham)](https://github.com/m-hamzashakeel/github-readme-stats)
-
 
 
 Open Source Contributor from <b>Pakistan<b> 💚

@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@main
         with:
-          feed_list: "https://medium.com/feed/@hamza.6.shakeel"
+          feed_list: "https://medium.com/feed/@mhamzadev"
