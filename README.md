@@ -54,7 +54,7 @@ Open Source Contributor from <b>Pakistan<b> 💚
 [twitter]: https://www.twitter.com/mhamzadev/
 [linkedin]: https://www.linkedin.com/in/mhamzadev/
 [instagram]: https://www.instagram.com/mhamzadev/
-[medium]: https://medium.com/@hamza.6.shakeel
+[medium]: https://medium.com/@mhamzadev
 [facebook]: https://www.facebook.com/mhamzadev
 [dsccui]: https://dsc.community.dev/comsats-university-islamabad/
 [flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
