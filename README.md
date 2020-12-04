@@ -14,7 +14,8 @@
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Active DSC Lead at my [Campus][dsccui] & Founder/CEO to [Flutter Islamabad][flutter_isb]
+- 🙋‍♂️ Active DSC Lead at [COMSATS Islamabad][dsccui]
+- 👉 Leading [Flutter Islamabad][flutter_isb]
 - 💻 The tech I'm interested in Android, Kotlin, AR/VR and ML
 - ✍ I also do technical writing on Medium
 - 📱 First Live app on Play Store [Holy Qur'an App][quran]
