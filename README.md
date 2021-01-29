@@ -1,12 +1,28 @@
 ### Hey there, I'm  Hamza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[<img align="left" alt="m-hamzashakeel | Facebook" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
-[<img align="left" alt="m-hamzashakeel | Twitter" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
-[<img align="left" alt="m-hamzashakeel | LinkedIn" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
-[<img align="left" alt="m-hamzashakeel | Instagram" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
-[<img align="left" alt="m-hamzashakeel | Medium" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">][medium]
+**Let's connect!**
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+<a href="https://www.twitter.com/mhamzadev/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/mhamzadev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/mhamzadev/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://mhamzadev.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/mhamzadev/">
+    <img src="	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=m-hamzashakeel.m-hamzashakeel)
 
 ### A Student, Developer & Writer
 
