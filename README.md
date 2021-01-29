@@ -28,9 +28,9 @@
 </div>
 
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
-
 ### A Student, Developer & Writer
+
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 #### Talking about my personal stuff:
 
