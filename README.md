@@ -28,8 +28,9 @@
 </a>
 </div>
 
-<div style="padding-bottom: 20px"></div>
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<div style="padding-bottom: 20px">
+    <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+</div>
 
 ### A Student, Developer & Writer
 
