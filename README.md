@@ -1,6 +1,4 @@
-<h1>Hey there, I'm  Hamza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-
-### A Student, Developer & Writer
+### Hey there, I'm  Hamza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 **Let's connect!**
 
@@ -21,10 +19,17 @@
 </a>
 
 <a href="https://www.facebook.com/mhamzadev/">
-    <img src="	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
+<a href="https://stackoverflow.com/users/12297382/hamza?tab=profile">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+
+
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+
+### A Student, Developer & Writer
 
 #### Talking about my personal stuff:
 
