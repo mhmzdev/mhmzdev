@@ -22,8 +22,6 @@
     <img src="	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=m-hamzashakeel.m-hamzashakeel)
-
 ### A Student, Developer & Writer
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
@@ -33,9 +31,9 @@
 - 🙋‍♂️ Active DSC Lead at [COMSATS Islamabad][dsccui]
 - 👉 Leading [Flutter Islamabad][flutter_isb]
 - 💻 The tech I'm interested in Android, Kotlin, AR/VR and ML
-- ✍ I also do technical writing on Medium
+- ✍ Technical writer at Medium
 - 📱 First Live app on Play Store [Holy Qur'an App][quran]
-- ✨ I'm learning Flutter, AR, React.js and few others
+- ✨ I'm learning Flutter, Web scrapping, Automations etc.
 - 🎮 COD Modern Warfare 1 Multiplayer
 - 📄 [Portfolio][profile]
 
@@ -67,12 +65,9 @@
 
 Open Source Contributor from <b>Pakistan<b> 💚
 
+![](https://visitor-badge.glitch.me/badge?page_id=m-hamzashakeel.m-hamzashakeel)
+
 [quran]: https://github.com/m-hamzashakeel/The_Holy_Quran_App
-[twitter]: https://www.twitter.com/mhamzadev/
-[linkedin]: https://www.linkedin.com/in/mhamzadev/
-[instagram]: https://www.instagram.com/mhamzadev/
-[medium]: https://medium.com/@mhamzadev
-[facebook]: https://www.facebook.com/mhamzadev
 [dsccui]: https://dsc.community.dev/comsats-university-islamabad/
 [flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
 [profile]: http://m-hamzashakeel.github.io
