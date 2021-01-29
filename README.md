@@ -1,6 +1,5 @@
 ### Hey there, I'm  Hamza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
 <div align="center">
 <p align="center">Let's connect!</p>
 <a href="https://www.twitter.com/mhamzadev/">
@@ -28,9 +27,8 @@
 </a>
 </div>
 
-<div style="padding-bottom: 20px">
-    <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
-</div>
+
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 ### A Student, Developer & Writer
 
