@@ -1,4 +1,6 @@
-### Hey there, I'm  Hamza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there, I'm  Hamza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+### A Student, Developer & Writer
 
 **Let's connect!**
 
@@ -21,8 +23,6 @@
 <a href="https://www.facebook.com/mhamzadev/">
     <img src="	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-
-### A Student, Developer & Writer
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
