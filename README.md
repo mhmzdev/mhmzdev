@@ -55,11 +55,10 @@
 
 ### ✍ Medium Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Integrate Medium Blog Feed in Flutter App — MVC Architecture](https://itnext.io/integrate-medium-blog-feed-in-flutter-app-mvc-architecture-3e0b3c90bfa3?source=rss-198dec8dcf4a------2)
+- [Folio — Responsive Portfolio using Flutter 2.0](https://itnext.io/folio-responsive-portfolio-using-flutter-2-0-86ae3e6cce4f?source=rss-198dec8dcf4a------2)
 - [Flutter Roadmap & Resource Guide — 2020](https://itnext.io/flutter-roadmap-resource-guide-2020-2ea6e4460a15?source=rss-198dec8dcf4a------2)
-- [Getting Most out of GitHub & Stack Overflow — Flutter Beginner](https://medium.com/@mhamzadev/getting-most-out-of-github-stack-overflow-flutter-beginner-5ad8ed01cdef?source=rss-198dec8dcf4a------2)
-- [Flutter v 1.22 — Quick Summary](https://itnext.io/flutter-v-1-22-quick-summary-c86a36ed56b3?source=rss-198dec8dcf4a------2)
-- [Journey from Scratch till Play Store — The Holy Qur’an | Flutter App](https://itnext.io/journey-from-scratch-till-play-store-the-holy-quran-flutter-app-407a5370448a?source=rss-198dec8dcf4a------2)
-- [Flutter v 1.20 — Quick Summary!!](https://itnext.io/flutter-v-1-20-quick-summary-ca14e6da9418?source=rss-198dec8dcf4a------2)
+- [Getting Most out of GitHub & Stack Overflow — Flutter Beginner](https://mhamzadev.medium.com/getting-most-out-of-github-stack-overflow-flutter-beginner-5ad8ed01cdef?source=rss-198dec8dcf4a------2)
 <!-- BLOG-POST-LIST:END -->
 
 
