@@ -22,9 +22,20 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://stackoverflow.com/users/12297382/hamza?tab=profile">
+<a href="https://stars.github.com/nominate/">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
+</div>
+
+<br>
+
+<div align="center">
+<p align="center">Nominate me as GitHub Star ⭐</p>
+
+<a href="https://stackoverflow.com/users/12297382/hamza?tab=profile">
+    <img src="https://img.shields.io/badge/GitHub-100000?&style=for-the-badge&logo=GitHub&logoColor=white&color=fa3667" />
+</a>
+
 </div>
 
 
@@ -43,7 +54,7 @@
 - 🎮 COD Modern Warfare 1 Multiplayer
 - 📄 [Portfolio][profile]
 
-### Languages & Tools
+<!-- ### Languages & Tools
 
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -51,7 +62,7 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> -->
 
 ### ✍ Medium Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -62,6 +73,18 @@
 - [Flutter v 1.20 — Quick Summary!!](https://itnext.io/flutter-v-1-20-quick-summary-ca14e6da9418?source=rss-198dec8dcf4a------2)
 <!-- BLOG-POST-LIST:END -->
 
+<div align="center">
+<p align="center">Tools & Technology 🛠</p>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
+
+
+</div>
 
 <summary>📝 My GitHub Stats</summary>
 <br>
