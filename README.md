@@ -32,7 +32,7 @@
 <div align="center">
 <p align="center">Nominate me as GitHub Star ⭐</p>
 
-<a href="https://stackoverflow.com/users/12297382/hamza?tab=profile">
+<a href="https://stars.github.com/nominate/">
     <img src="https://img.shields.io/badge/GitHub-100000?&style=for-the-badge&logo=GitHub&logoColor=white&color=fa3667" />
 </a>
 
