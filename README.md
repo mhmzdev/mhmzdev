@@ -2,15 +2,15 @@
 
 <div align="center">
 <p align="center">Let's connect!</p>
-<a href="https://www.twitter.com/mhamzadev/">
+<a href="https://www.twitter.com/mhmzdev/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/mhamzadev/">
+<a href="https://www.instagram.com/mhmzdev/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/mhamzadev/">
+<a href="https://www.linkedin.com/in/mhmzdev/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -18,11 +18,11 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/mhamzadev/">
+<a href="https://www.facebook.com/mhmzdev/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://stars.github.com/nominate/">
+<a href="https://stackoverflow.com/users/12297382/hamza">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 </div>
@@ -91,14 +91,14 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=m-hamzashakeel&theme=gotham)](https://github.com/m-hamzashakeel/github-readme-stats)
+[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
 
 
 Open Source Contributor from <b>Pakistan<b> 💚
 
-![](https://visitor-badge.glitch.me/badge?page_id=m-hamzashakeel.m-hamzashakeel)
+![](https://visitor-badge.glitch.me/badge?page_id=mhmzdev.mhmzdev)
 
-[quran]: https://github.com/m-hamzashakeel/The_Holy_Quran_App
+[quran]: https://github.com/mhmzdev/The_Holy_Quran_App
 [dsccui]: https://dsc.community.dev/comsats-university-islamabad/
 [flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
-[profile]: http://m-hamzashakeel.github.io
+[profile]: http://mhmzdev.github.io
