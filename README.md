@@ -101,4 +101,4 @@ Open Source Contributor from <b>Pakistan<b> 💚
 [quran]: https://github.com/mhmzdev/The_Holy_Quran_App
 [dsccui]: https://dsc.community.dev/comsats-university-islamabad/
 [flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
-[profile]: http://mhmzdev.github.io
+[profile]: https://mhmz.dev
