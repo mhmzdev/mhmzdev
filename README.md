@@ -45,14 +45,20 @@
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Active DSC Lead at [COMSATS Islamabad][dsccui]
+- 🙋‍♂️ Former Google DSC Lead [COMSATS Islamabad][dsccui]
 - 👉 Leading [Flutter Islamabad][flutter_isb]
-- 💻 The tech I'm interested in Android, Kotlin, AR/VR and ML
-- ✍ Technical writer at Medium
+- 💻 The tech I'm interested Flutter/ML/AR etc.
+- ✍ Technical writer at [Medium][medium]
 - 📱 First Live app on Play Store [Holy Qur'an App][quran]
 - ✨ I'm learning Flutter, Web scrapping, Automations etc.
 - 🎮 COD Modern Warfare 1 Multiplayer
-- 📄 [Portfolio][profile]
+- 📄 Live [Portfolio][profile]
+- 🎨 [Dribbble][dribbble] profile
+
+#### Have some project?
+
+- 💻 Hire at [Upwork][upwork]
+- 📧 Reach via [Email][email]
 
 <!-- ### Languages & Tools
 
@@ -64,12 +70,10 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> -->
 
-### ✍ Medium Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<br>
 
 <div align="center">
-<p align="center">Tools & Technology 🛠</p>
+<p align="center">🛠 Tools & Technology</p>
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -77,7 +81,6 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
-
 
 </div>
 
@@ -89,22 +92,31 @@
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
 
 
-Open Source Contributor from <b>Pakistan<b> 💚
-
-![](https://visitor-badge.glitch.me/badge?page_id=mhmzdev.mhmzdev)
-
-[quran]: https://github.com/mhmzdev/The_Holy_Quran_App
-[dsccui]: https://dsc.community.dev/comsats-university-islamabad/
-[flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
-[profile]: https://mhmz.dev
-
+## ✍ Medium Blog Posts
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/0" alt="Recent Article 0"> 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/1" alt="Recent Article 1"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/2" alt="Recent Article 2"> 
+<a style="display: inline-block" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/2" alt="Recent Article 2"> 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/3" alt="Recent Article 3"> 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/4" alt="Recent Article 4"> 
+
+
+Open Source Contributor from <b>Pakistan<b> 💚
+
+![](https://visitor-badge.glitch.me/badge?page_id=mhmzdev.mhmzdev)
+
+
+
+
+[quran]: https://github.com/mhmzdev/The_Holy_Quran_App
+[dsccui]: https://dsc.community.dev/comsats-university-islamabad/
+[flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
+[profile]: https://mhmz.dev
+[medium]: https://mhamzdev.medium.com/
+[upwork]: https://www.upwork.com/freelancers/~0197b0f6aaeba9675f
+[email]: mailto:hamza.6.shakeel@gmail.com
+[dribbble]: https://dribbble.com/mhmzdev
