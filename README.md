@@ -66,11 +66,6 @@
 
 ### ✍ Medium Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Should I learn Dart before Flutter?](https://itnext.io/should-i-learn-dart-before-flutter-55893ab9ca84?source=rss-198dec8dcf4a------2)
-- [Integrate Medium Blog Feed in Flutter App — MVC Architecture](https://itnext.io/integrate-medium-blog-feed-in-flutter-app-mvc-architecture-3e0b3c90bfa3?source=rss-198dec8dcf4a------2)
-- [Folio — Responsive Portfolio using Flutter 2.0](https://itnext.io/folio-responsive-portfolio-using-flutter-2-0-86ae3e6cce4f?source=rss-198dec8dcf4a------2)
-- [Flutter Roadmap & Resource Guide — 2020](https://itnext.io/flutter-roadmap-resource-guide-2020-2ea6e4460a15?source=rss-198dec8dcf4a------2)
-- [Getting Most out of GitHub & Stack Overflow — Flutter Beginner](https://mhamzadev.medium.com/getting-most-out-of-github-stack-overflow-flutter-beginner-5ad8ed01cdef?source=rss-198dec8dcf4a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
@@ -102,3 +97,14 @@ Open Source Contributor from <b>Pakistan<b> 💚
 [dsccui]: https://dsc.community.dev/comsats-university-islamabad/
 [flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
 [profile]: https://mhmz.dev
+
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/1" alt="Recent Article 1"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/2" alt="Recent Article 2"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/3" alt="Recent Article 3"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/4" alt="Recent Article 4"> 
