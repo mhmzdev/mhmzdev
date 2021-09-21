@@ -63,6 +63,11 @@
 ## Blogs
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Should I learn Dart before Flutter?](https://itnext.io/should-i-learn-dart-before-flutter-55893ab9ca84?source=rss-198dec8dcf4a------2)
+- [Integrate Medium Blog Feed in Flutter App — MVC Architecture](https://itnext.io/integrate-medium-blog-feed-in-flutter-app-mvc-architecture-3e0b3c90bfa3?source=rss-198dec8dcf4a------2)
+- [Folio — Responsive Portfolio using Flutter 2.0](https://itnext.io/folio-responsive-portfolio-using-flutter-2-0-86ae3e6cce4f?source=rss-198dec8dcf4a------2)
+- [Flutter Roadmap & Resource Guide — 2020](https://itnext.io/flutter-roadmap-resource-guide-2020-2ea6e4460a15?source=rss-198dec8dcf4a------2)
+- [Getting Most out of GitHub & Stack Overflow — Flutter Beginner](https://mhamzadev.medium.com/getting-most-out-of-github-stack-overflow-flutter-beginner-5ad8ed01cdef?source=rss-198dec8dcf4a------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!-- ### Languages & Tools
