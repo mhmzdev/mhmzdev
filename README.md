@@ -70,8 +70,6 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> -->
 
-<br>
-
 <div align="center">
 <p align="center">🛠 Tools & Technology</p>
 
@@ -92,7 +90,7 @@
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
 
 
-## ✍ Medium Blog Posts
+### ✍ Medium Blog Posts
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/0" alt="Recent Article 0"> 
 
