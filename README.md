@@ -55,12 +55,7 @@
 - 📄 Live [Portfolio][profile]
 - 🎨 [Dribbble][dribbble] profile
 
-#### Have some project?
-
-- 💻 Hire at [Upwork][upwork]
-- 📧 Reach via [Email][email]
-
-## Blogs
+#### ✍ Medium Blog Posts
 
 <!-- MEDIUM-STORY-LIST:START -->
 <!-- MEDIUM-STORY-LIST:END -->
@@ -95,17 +90,6 @@
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
 
 
-### ✍ Medium Blog Posts
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/0" alt="Recent Article 0"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/1" alt="Recent Article 1"> 
-
-<a style="display: inline-block" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/2" alt="Recent Article 2"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/3" alt="Recent Article 3"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/4" alt="Recent Article 4"></a>
 
 
 Open Source Contributor from <b>Pakistan<b> 💚 
@@ -113,13 +97,9 @@ Open Source Contributor from <b>Pakistan<b> 💚
 ![](https://visitor-badge.glitch.me/badge?page_id=mhmzdev.mhmzdev)
 
 
-
-
 [quran]: https://github.com/mhmzdev/The_Holy_Quran_App
 [dsccui]: https://dsc.community.dev/comsats-university-islamabad/
 [flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
 [profile]: https://mhmz.dev
 [medium]: https://mhamzdev.medium.com/
-[upwork]: https://www.upwork.com/freelancers/~0197b0f6aaeba9675f
-[email]: mailto:hamza.6.shakeel@gmail.com
 [dribbble]: https://dribbble.com/mhmzdev
