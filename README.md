@@ -100,10 +100,10 @@
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/3" alt="Recent Article 3"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/4" alt="Recent Article 4"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mhamzadev/4" alt="Recent Article 4"></a>
 
 
-Open Source Contributor from <b>Pakistan<b> 💚
+Open Source Contributor from <b>Pakistan<b> 💚 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mhmzdev.mhmzdev)
 
