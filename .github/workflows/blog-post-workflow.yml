@@ -12,7 +12,8 @@ jobs:
     steps:
       - name: Checkout
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Blog Post Workflow
+      - uses: gautamkrishnar/blog-post-workflow@1.5.6
         with:
           feed_list: "https://mhamzadev.medium.com/"
           max_post_count: 6
