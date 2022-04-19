@@ -15,3 +15,4 @@ jobs:
         with:
           comment_tag_name: "MEDIUM-STORY-LIST"
           feed_list: "https://medium.com/feed/@mhmzdev"
+          max_pos_count: 7
