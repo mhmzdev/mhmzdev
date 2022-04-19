@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "MEDIUM-STORY-LIST"
-          feed_list: "https://medium.com/feed/@mhamzadev"
+          feed_list: "https://medium.com/feed/@mhmzdev"
