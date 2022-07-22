@@ -106,5 +106,5 @@ Open Source Contributor from <b>Pakistan<b> 💚
 [dsccui]: https://dsc.community.dev/comsats-university-islamabad/
 [flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
 [profile]: https://mhmz.dev
-[medium]: https://mhamzdev.medium.com/
+[medium]: https://mhmzdev.medium.com/
 [dribbble]: https://dribbble.com/mhmzdev
