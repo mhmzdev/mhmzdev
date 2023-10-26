@@ -58,7 +58,7 @@
 #### ✍ Medium Blog Posts
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Flutter &amp; Monorepo — Power of Scalability](https://mhmzdev.medium.com/flutter-monorepo-power-of-scalability-e191a80d5293?source=rss-198dec8dcf4a------2)
+- [Flutter &amp; Monorepo — Power of Scalability](https://blog.stackademic.com/flutter-monorepo-power-of-scalability-e191a80d5293?source=rss-198dec8dcf4a------2)
 - [flutter.py | Kings on both -end](https://mhmzdev.medium.com/flutter-py-kings-on-both-end-90917c0b4c43?source=rss-198dec8dcf4a------2)
 - [Flutter3 &amp; Web3 | Metamask Integration](https://mhmzdev.medium.com/flutter3-web3-metamask-integration-838acf654276?source=rss-198dec8dcf4a------2)
 - [Should I learn Dart before Flutter?](https://itnext.io/should-i-learn-dart-before-flutter-55893ab9ca84?source=rss-198dec8dcf4a------2)
