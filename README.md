@@ -22,9 +22,9 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/mhmzdev/">
+<!-- <a href="https://www.facebook.com/mhmzdev/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
+</a> -->
 
 <a href="https://stackoverflow.com/users/12297382/hamza">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
