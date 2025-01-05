@@ -96,7 +96,7 @@
 
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mhmzdev&&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mhmzdev&&theme=gotham)](https://git.io/streak-stats)
 
 Open Source Contributor from <b>Pakistan<b> 💚 
 
