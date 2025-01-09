@@ -107,7 +107,7 @@ Open Source Contributor from <b>Pakistan<b> 💚
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmzdev&label=Profile%20Visits&style=for-the-badge" alt="mhmzdev" /> </p>
 
 [quran]: https://github.com/mhmzdev/The_Holy_Quran_App
-[dsccui]: https://dsc.community.dev/comsats-university-islamabad/
+[dsccui]: https://gdg.community.dev/gdg-on-campus-comsats-university-islamabad-pakistan/
 [flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
 [profile]: https://mhmz.dev
 [medium]: https://mhmzdev.medium.com/
