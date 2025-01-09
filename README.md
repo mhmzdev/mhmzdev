@@ -54,7 +54,11 @@
 - ✍ Technical writer at [Medium][medium]
 - 📱 First Live app on Play Store [Holy Qur'an App][quran]
 - 🙋‍♂️ Former Google DSC Lead [COMSATS Islamabad][dsccui]
-- 📄 Live [Portfolio][profile]
+- 🏎️ F1 - Loves to watch cars go vhroom! vhroom!
+- 📸 Mobile photography
+- 📚 Books!!
+- ⚽️ "Ah! There was a sport!"
+- 👀 Wanna see, what I do? [Portfolio][profile]
 
 #### ✍ Medium Blog Posts
 
