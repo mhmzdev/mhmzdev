@@ -59,6 +59,7 @@
 - 📚 Books!!
 - ⚽️ "Ah! There was a sport!"
 - 👀 Wanna see, what I do? [Portfolio][profile]
+- 📜 Take a look at my [Resume][resume]
 
 #### ✍ Medium Blog Posts
 
@@ -110,4 +111,5 @@ Open Source Contributor from <b>Pakistan<b> 💚
 [dsccui]: https://gdg.community.dev/gdg-on-campus-comsats-university-islamabad-pakistan/
 [flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
 [profile]: https://mhmz.dev
+[resume]: https://mhmz.dev/resume
 [medium]: https://mhmzdev.medium.com/
