@@ -2,17 +2,21 @@ name: Latest Medium story workflow
 on:
   schedule:
     # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '0 0 */7 * *'
   workflow_dispatch:
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest Medium post
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Fetch Medium Stories
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "MEDIUM-STORY-LIST"
-          feed_list: "https://medium.com/feed/@mhmzdev"
+          feed_list: "https://mhmzdev.medium.com/feed"
           max_pos_count: 7
