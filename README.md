@@ -64,11 +64,11 @@
 #### ✍ Medium Blog Posts
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Flutter Web: The good, the bad and the ugly](https://itnext.io/flutter-web-the-good-the-bad-and-the-ugly-7fdaf6f66f00?source=rss-198dec8dcf4a------2)
 - [Darttern Matching: When if-else Got a Glow-Up ✨](https://mhmzdev.medium.com/darttern-matching-when-if-else-got-a-glow-up-aa83263687b7?source=rss-198dec8dcf4a------2)
 - [DraftWing: An agentic app under 48 hours!](https://mhmzdev.medium.com/draftwing-an-agentic-app-under-48-hours-869e0ecc1f50?source=rss-198dec8dcf4a------2)
 - [Two Years of Social Detox as a Developer! What did I learn?](https://mhmzdev.medium.com/two-years-of-social-detox-as-a-developer-what-did-i-learn-2bfed451c434?source=rss-198dec8dcf4a------2)
 - [Flutter &amp; Monorepo — Power of Scalability](https://blog.stackademic.com/flutter-monorepo-power-of-scalability-e191a80d5293?source=rss-198dec8dcf4a------2)
-- [flutter.py | Kings on both -end](https://mhmzdev.medium.com/flutter-py-kings-on-both-end-90917c0b4c43?source=rss-198dec8dcf4a------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!-- ### Languages & Tools
