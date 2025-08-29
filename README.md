@@ -64,11 +64,11 @@
 #### ✍ Medium Blog Posts
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [The Art of Managing Single Code Base — Flutter | Part # 02](https://mhmzdev.medium.com/the-art-of-managing-single-code-base-flutter-part-02-a585a7f1e3be?source=rss-198dec8dcf4a------2)
 - [The Art of Managing Single Code Base — Flutter | Part # 01](https://mhmzdev.medium.com/the-art-of-managing-single-code-base-flutter-part-01-80ab2ad2ad9d?source=rss-198dec8dcf4a------2)
 - [Flutter Web: The good, the bad and the ugly](https://itnext.io/flutter-web-the-good-the-bad-and-the-ugly-7fdaf6f66f00?source=rss-198dec8dcf4a------2)
 - [Darttern Matching: When if-else Got a Glow-Up ✨](https://mhmzdev.medium.com/darttern-matching-when-if-else-got-a-glow-up-aa83263687b7?source=rss-198dec8dcf4a------2)
 - [DraftWing: An agentic app under 48 hours!](https://mhmzdev.medium.com/draftwing-an-agentic-app-under-48-hours-869e0ecc1f50?source=rss-198dec8dcf4a------2)
-- [Two Years of Social Detox as a Developer! What did I learn?](https://mhmzdev.medium.com/two-years-of-social-detox-as-a-developer-what-did-i-learn-2bfed451c434?source=rss-198dec8dcf4a------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!-- ### Languages & Tools
